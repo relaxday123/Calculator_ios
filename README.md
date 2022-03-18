@@ -1,3 +1,3 @@
 # Calculator_ios
  
-Drag apk to emulator device to run
+Drag apk file to emulator device to run
